@@ -23,4 +23,6 @@ Basically, it comes down to this: When people like a product, they use that prod
   <li><h3>Motion designers</h3> They think about what it feels like for a user to move through a product.<br>
     A motion designer’s work answers questions like: How should an app transition between pages? How do we show the connection between these actions? And, what’s an engaging animation that will help tell our story? Motion designers focus on design elements that move, rather than traditional static designs.
   </li>
+  <li><h3>VR/AR designers</h3>A VR or AR designer’s work answers questions like: How do we create a user experience that leverages 3D space? Or, will this action cause a user motion sickness? To ensure users are comfortable immersing in a VR or AR experience, designers need to carefully consider everything from sound to lighting. </li>
+  <li><h3>Other UX careers</h3> UX researcher, UX writer, UX Program manager, UX engineer, Conversation designer</li>
 </ul>
