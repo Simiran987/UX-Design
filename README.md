@@ -1,6 +1,6 @@
 # UX-Design
 
-## For a user to have a good experience -
+## For a user to have a good experience
 A product needs to be - 
 <ul>
   <li>Usable - The design, structure and purpose of the product are clear to everyone.</li>
